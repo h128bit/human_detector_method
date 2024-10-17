@@ -2,7 +2,9 @@
 Set of methods for detect human and draw bounding box around them. Based on YOLOv5s6.
 
 <h3>How to run</h3>
-From root folder<br>
+Install requirements:
+<code>pip install -r requirements.txt</code>.<br>
+From project folder run app<br>
 <code>python human_detector.py path\to-source\file.mp4 path\to-save\file.mp4</code><br>
 You also can use specify the flag <code>-w</code> for indicate custom path to model weights <br>
 <code>python human_detector.py path\to-source\file.mp4 path\to-save\file.mp4 -w path\to-my\file.pt</code><br>
