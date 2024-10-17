@@ -2,3 +2,5 @@ opencv-python~=4.10.0.84
 torch~=2.4.1
 numpy~=2.1.2
 pandas~=2.2.3
+pillow~=11.0.0
+
